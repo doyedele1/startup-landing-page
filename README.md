@@ -1,3 +1,3 @@
 # Startup-Landing-Page
 
-See live --> https://startup-landing-page-template.netlify.app/
+See live demo --> https://startup-landing-page-template.netlify.app/
